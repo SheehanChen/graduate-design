@@ -3,8 +3,9 @@
 因为毕业设计的单片机控制要求，我设计了旋风除尘装置的三个控制要求，并且进行了设计。
 **项目使用正点原子例程修改而来**
 芯片：stm32f103c8t6
-![IMG_20190519_105723](https://ws2.sinaimg.cn/large/de9063aaly1g36g55vfc8j23402c0hdv.jpg)
-![IMG_20190519_105731](https://ws3.sinaimg.cn/large/de9063aaly1g36g5me3zfj23402c0e83.jpg)
+![IMG_20190519_105731.jpg](https://upload-images.jianshu.io/upload_images/15198536-fc134eee36eea1fe.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+![IMG_20190519_105723.jpg](https://upload-images.jianshu.io/upload_images/15198536-76aadb2ec82ace23.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ## 显示和交互部分
 
